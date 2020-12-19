@@ -5,7 +5,7 @@
 | Home                             		             | Food Order                              		 |
 | -------------------------------------------------|---------------------------------------------|
 | <img src="SS/Home.JPG" width="500">              | <img src="SS/food-order.JPG" width="500">   |
-| List Food                             		       | Cart                              			     |
+|                  List Food            		       |                     Cart          			     |
 | <img src="SS/daftar-makanan.JPG" width="500">  	 | <img src="SS/cart.JPG" width="500">         |
 ## Project setup
 ```
