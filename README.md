@@ -2,7 +2,7 @@
 
 ## 📸 ScreenShots
 
-<img src="SS/Home.JPG" width="400">
+<img src="SS/Home.JPG" width="800">
 
 ## Project setup
 ```
